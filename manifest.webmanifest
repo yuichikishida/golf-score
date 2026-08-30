@@ -1,0 +1,15 @@
+{
+  "name": "ゴルフスコア",
+  "short_name": "スコア",
+  "description": "ゴルフのスコアを入力してGoogleドライブに貯め、あとからAIで分析する",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#1b7f4b",
+  "lang": "ja",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
